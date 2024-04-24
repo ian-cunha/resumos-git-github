@@ -32,6 +32,10 @@ git clone 'URL'
 ---
 git remote add origin 'URL'
 ---
+git pull
+---
+git push
+---
 
 ## 🔍 Referências
 - [Digital Innovation One](https://web.dio.me/).
