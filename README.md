@@ -10,7 +10,7 @@ Respositório para armazenar resumos sobre o Git e GitHub da [Digital Innovation
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Respositório Local | [Resumos]() |
+| Gravando Alterações no Respositório Local | [Resumo]() |
 
 ---
 git init
