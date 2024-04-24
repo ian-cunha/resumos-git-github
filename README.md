@@ -15,6 +15,22 @@ Respositório para armazenar resumos sobre o Git e GitHub da [Digital Innovation
 ---
 git init
 ---
+git add
+---
+git commit
+---
+git status
+---
+git log
+---
+git reset
+---
+git reflog
+---
+git clone 'URL'
+---
+git remote add origin 'URL'
+---
 
 ## 🔍 Referências
 - [Digital Innovation One](https://web.dio.me/).
